@@ -1,0 +1,23 @@
+{
+  "name": "socketio-drawing",
+  "version": "1.0.0",
+  "description": "A realtime drawing app using socketIO",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sharvari Raut",
+  "keywords": [
+    "socket io",
+    "drawing",
+    "javascript",
+    "sockets"
+  ],
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "p5": "^1.4.0",
+    "socket.io": "^4.4.1"
+  }
+}
